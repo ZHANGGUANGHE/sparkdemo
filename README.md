@@ -12,4 +12,6 @@ Unit Test class SparkDemoScalaTest.scala running VM Options:
 
 -ea -Djdk.attach.allowAttachSelf --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.cs=ALL-UNNAMED
 
+Folder resultoutput contains the screenshot for the run result.
+
 (https://github.com/ZHANGGUANGHE/sparkdemo)
